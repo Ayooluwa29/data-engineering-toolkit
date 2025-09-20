@@ -1,7 +1,7 @@
 # data-engineering-toolkit
 
-## Documentation
+## Documentation:
 
-## Code Examples
+## Code Examples:
 
-## Contribution Guide
+## Contribution Guide:
