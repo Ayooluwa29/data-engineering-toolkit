@@ -1,0 +1,4 @@
+dec_lunchpad_venv/
+.env
+__pycache__/
+*.pyc
